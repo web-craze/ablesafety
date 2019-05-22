@@ -69,3 +69,4 @@ To test application the database is seeding with users :
 * Redactor : email = redac@la.fr, password = redac
 * User : email = walker@la.fr, password = walker
 * User : email = slacker@la.fr, password = slacker
+* User : email = handy.apple11@gmail.com, password = ghfaugid
